@@ -1,6 +1,5 @@
 #include "bstDriver.h"
-
-#include "binarysearchtree.h"
+#include "BinarySearchTree.h"
 
 // This program generates bunch of rand ints in given range
 // and stores them in vector, and it also inserts them in
